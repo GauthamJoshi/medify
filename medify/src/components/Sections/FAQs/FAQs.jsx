@@ -1,6 +1,6 @@
 import { Box, Container, Grid, Typography } from "@mui/material";
 import faqBanner from '../../../assets/faqs-banner.jpg'
-import CustomizedAccordions from "../../Accordion/Accordion";
+import CustomizedAccordions from "../../Accordian/Accordian";
 
 export default function FAQs() {
 
